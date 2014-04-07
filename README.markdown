@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/stephenrjohnson/puppetmodule.png)](https://travis-ci.org/stephenrjohnson/puppetmodule)
 # Puppet module #
 
 This module provides classes for managing the puppet agent and puppet master. 
@@ -6,6 +5,11 @@ It will setup passenger and apache on the puppetmaster. Please note this will
 not setup puppetdb. This can be configured using the puppetdb module 
 http://forge.puppetlabs.com/puppetlabs/puppetdb. Storedconfigs with puppetdb 
 will only work on puppet versions newer than 2.7.12.
+
+
+## Note ##
+
+This module is a fork of http://forge.puppetlabs.com/stephenrjohnson/puppet
 
 ## Prerequisites ##
 If you are using a RedHat based OS you also need to have the EPEL repo configured

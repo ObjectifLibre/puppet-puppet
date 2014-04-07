@@ -35,3 +35,5 @@
   * fix directory and file permissions <saz>
   * add parameter for changing hiera_config value <saz>
   * fix apache_custom_fragment template for apache2.4 <saz>
+2014-04-07 Guillaume Espanel <guillaume.espanel@objectif-libre.com> - 0.0.21
+  * add parmaeters for changing certificates path and ca behavior
