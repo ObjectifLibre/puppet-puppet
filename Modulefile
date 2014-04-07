@@ -1,5 +1,5 @@
 name 'objectiflibre-puppet'
-version '0.0.20'
+version '0.0.21'
 source 'git://github.com/ObjectifLibre/puppet-puppet.git'
 author 'Guillaume Espanel'
 description 'Resource types for managing puppet master and agent'
